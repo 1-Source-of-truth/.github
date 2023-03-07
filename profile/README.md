@@ -1,8 +1,5 @@
-# A 42 source of truth
+# 1 Source of Truth
 
-## Everything is in the name
-The name for this project is an amalgamation of 2 :
-1. We want 1 source of truth.
-2. Our Arc42 model will be used to create a complete overview of our project.
-
-therefor: A~rc~ 42 source of truth
+## Scope
+Ieder IT bedrijf kent meerdere bronnen van informatie en meerdere namen voor hetzelfde onderdeel.
+Het doel van ons project is **1** gezamelijk model van informatie te vormen en daar een gefilterde view (waardevolle informatie) per soort gebruiker te visualiseren.
